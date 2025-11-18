@@ -62,7 +62,7 @@ def exibir_extrato(saldo, extrato):
     print('\n========== EXTRATO ==========')
     print(extrato if extrato else 'Nenhuma movimentação realizada.')
     print(f'Saldo atual: R$ {saldo:.2f}')
-    print('==============================\n')
+    print('===============================\n')
 
 # Loop principal
 while True:
