@@ -10,7 +10,11 @@
 
 
 ## Linguagens mais utilizadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Espero que fique a vontade para conhecer mais repositórios e para interagir também.
+
+
+
+***Espero que fique a vontade para conhecer mais repositórios e para interagir também.***
 
 
