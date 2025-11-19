@@ -5,6 +5,7 @@
 # 💻 ***Desafios***
 ## Projetos
  * [Code Challenge 1](https://github.com/dnxpollo/PythonDIO/tree/modulo-1/desafio)
+ * [Desafio Data_Hora](https://github.com/dnxpollo/PythonDIO/blob/modulo-2/Data_hora/desafio_data_hora.py)
 
 
 
