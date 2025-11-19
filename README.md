@@ -1,4 +1,4 @@
-# Saudações, sou Sérgio Henrique (dnxpollo)��
+# Saudações, sou Sérgio Henrique (dnxpollo)
 
 ## 📌 Bem vindo ao meu repositório do curso de Python com a DIO.
 
